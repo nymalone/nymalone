@@ -10,7 +10,7 @@
 
 ### Hi there! 👋
 
-- :woman_technologist: **Fullstack** web developer. **Front-end** passionate.
+- :woman_technologist: **Fullstack** web developer. **Front-end** developer at Sami. 
 - 💻 React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Graduated by **Ironhack** :blue_heart: and currently studying at **Rocketseat** :purple_heart: 
 
