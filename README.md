@@ -1,5 +1,6 @@
 
 ## :woman_technologist: Nykolle Malone
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nymalone" alt="nymalone" /> </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/nymalone)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/nykollemalone/)
