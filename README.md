@@ -11,7 +11,7 @@
 
 ### Hi there! 👋
 
-- :woman_technologist: **Fullstack** web developer. **Front-end** developer at [Sami](https://github.com/oisamitech). 
+- :woman_technologist: **Fullstack** web developer. **Front-end** developer at [VerifyMyAge](https://verifymyage.co.uk). 
 - :woman_astronaut: Currently studying and **SpaceSquad** mentor at  **Rocketseat** :purple_heart: 
 - 💻 React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Graduated by **Ironhack** :blue_heart:
