@@ -10,16 +10,16 @@
 
 ### Hi there! 👋
 
-- :woman_technologist: **Fullstack** web developer. **Front-end** developer at [VerifyMy](https://verifymyage.co.uk). 
-- :woman_astronaut: Currently studying and **SpaceSquad** mentor at  **Rocketseat** :purple_heart: 
+- :woman_technologist: **Front-end** developer at [VerifyMy](https://verifymyage.co.uk). 
 - 💻 React.js, Next.js, Remix,js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Graduated by **Ironhack** :blue_heart:
+- :woman_astronaut: **SpaceSquad** mentor at  **Rocketseat** :purple_heart: 
 
 - ⚡ Fun facts: 
   - Former nurse 👩‍
   - Fitness addicted 🏋️‍
-  - Beer lover 🍺
-  - 13 Tattoos (and counting...) ✒️
-  - Mother of pug and pitbull 🐶  and cats 🐈 
+  - Beer and Negroni lover 🍺 🥃
+  - 14 Tattoos (and counting...) ✒️
+  - Mother of a pug, pitbull 🐶  and 2 cats 🐈 
 
 ---
